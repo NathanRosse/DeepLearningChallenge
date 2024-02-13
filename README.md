@@ -1,6 +1,6 @@
 # DeepLearningChallenge
 
-A bit of a rushed job but thankfully I have enough examples at this point to base much of my work off of. Thanks to the TAs for their advice as well.
+A bit of a rushed job but thankfully I have enough examples at this point to base much of my work off of. I had to get help with writing the analysis as I was a bit mentally drained by the end of it to try and pen down my thoughts accuracy. Thanks to the TAs for their advice as well as chatGPT for helping get through the rough patches.
 
 Instructions
 Step 1: Preprocess the Data
